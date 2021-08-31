@@ -11,7 +11,6 @@ function App() {
     <section className="todoapp">
       <Header />
       <Content />
-
     </section>
     <Footer />
     </>
